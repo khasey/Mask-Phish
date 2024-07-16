@@ -42,5 +42,5 @@ Follow the on-screen instructions to enter the phishing URL and masking domains.
     
 ## Screenshots
 
-![Login](https://github.com/khasey/swifty_companion_42/blob/main/screenshots/screen1.png?raw=true)
+![Login](https://github.com/khasey/Mask-Phish/blob/main/Mask-Phish.png?raw=true)
 

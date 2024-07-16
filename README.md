@@ -34,7 +34,7 @@ Usage
 Run the script:
 
 ```bash
-python3 mask.py
+python3 Mask-Phish.py
 ```
 Follow the on-screen instructions to enter the phishing URL and masking domains.
 
